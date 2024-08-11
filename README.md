@@ -1,4 +1,4 @@
-Covid Project - Data Explorationº
+Covid Project - Data Exploration
 
 This script analyzes COVID-19 data by summarizing cases, deaths, and calculating death percentages. It compares infection and death rates across different locations and populations, and also merges COVID-19 death data with vaccination data to track progress. Additionally, the script creates views for easier data visualization, allowing for a comprehensive understanding of infection rates, death counts, and vaccination progress.
 
