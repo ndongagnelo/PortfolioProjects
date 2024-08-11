@@ -1,8 +1,8 @@
-## **Portfolio Projects**<br>
+# **Portfolio Projects**<br>
 Welcome to my portfolio of data analysis and automation projects! This repository showcases a variety of scripts and tools I've developed to tackle different challenges in data collection, processing, and visualization. Each project highlights a specific skill set and demonstrates my ability to work with various data sources and technologies.
 
-## **Projects**<br>
-###**Amazon Web Scraper**<br>
+## **Projects**
+### **Amazon Web Scraper**<br>
 This script monitors the price of a specific product on Amazon by scraping its webpage. It extracts the product's title and price, logs this information to a CSV file, and updates the file every hour to track price changes over time.
 
 ### **Automate API Extraction + Appending Data**<br>
